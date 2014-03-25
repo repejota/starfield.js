@@ -1,0 +1,48 @@
+{
+    "name": "pulsar.js",
+    "version": "0.1.0",
+    "description": "A glowing pulsar effect in canvas",
+    "homepage": "https://github.com/repejota/pulsar.js",
+    "keywords": [
+        "pulsar",
+        "javascript",
+        "canvas"
+    ],
+    "licenses": {
+        "type": "MIT",
+        "url": "https://github.com/repejota/pulsar.js/blob/master/LICENSE"
+    },
+    "author": {
+        "name": "Raül Pérez",
+        "email": "repejota@gmail.com",
+        "url": "https://github.com/repejota/"
+    },
+    "contributors": "https://github.com/repejota/pulsar.js/graphs/contributors",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/repejota/pulsar.js"
+    },
+    "bugs": {
+        "url": "https://github.com/repejota/pulsar.js/issues",
+        "email": "repejota@gmail.com"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "^0.4.4",
+        "matchdep": "^0.3.0",
+        "grunt-contrib-clean": "^0.5.0",
+        "grunt-contrib-jshint": "^0.9.2",
+        "jshint-stylish": "^0.1.5",
+        "grunt-contrib-sass": "^0.7.3",
+        "grunt-contrib-csslint": "^0.2.0",
+        "grunt-contrib-copy": "^0.5.0",
+        "grunt-contrib-uglify": "^0.4.0",
+        "grunt-contrib-watch": "^0.6.0"
+    },
+    "private": true,
+    "analyze": false,
+    "readmeFilename": "README.md",
+    "_id": "pulsar.js@0.1.0",
+    "_from": "pulsar.js@*"
+}
